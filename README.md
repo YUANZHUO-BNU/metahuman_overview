@@ -7,7 +7,7 @@
 实现对话可以通过实时的方式，也可以通过先合成再播放的的方式。前者在高性能电脑中可实现非常低的延时，可用在直播中。后者有一定延时。
 
 - 实时或非实时模型（代表技术：[Meta Human](https://www.unrealengine.com/en-US/metahuman), [NVIDIA Omniverse Audio2Face](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)）
-- 实时视频换脸（代表技术：[DeepFakeLive](https://www.deepfakevfx.com/downloads/deepfacelive/)）
+- 实时视频换脸（代表技术：[DeepFakeLive](https://www.deepfakevfx.com/downloads/deepfacelive/),[FaceFusion](https://github.com/facefusion/facefusion)）
 - 非实时视频换声音（代表技术：[Wav2Lip](https://github.com/Rudrabha/Wav2Lip)）
 - 非实时图片转视频（代表技术：[Sadtalker](https://github.com/OpenTalker/SadTalker)）
 
