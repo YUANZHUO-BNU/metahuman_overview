@@ -151,9 +151,7 @@ Digital humans have applications in self-media (knowledge science popularization
 
 ## 5. Laws, Regulations, and Representative News
 
-- **[Regulations on the Management of Deep Synthesis of Internet Information Services](https://www.gov.cn/zhengce
-
-/zhengceku/2022-12/12/content_5731431.htm)**  
+- **[Regulations on the Management of Deep Synthesis of Internet Information Services](https://www.gov.cn/zhengce/zhengceku/2022-12/12/content_5731431.htm)**  
 *Providers of deep synthesis services and technical supporters offering services that generate or significantly alter information content with intelligent dialogue, synthetic voices, facial generation, immersive realistic scenarios, etc., should prominently identify the services to avoid public confusion or misidentification.*
 
 - **[Beijing Action Plan for Promoting the Innovative Development of the Digital Human Industry](https://www.beijing.gov.cn/zhengce/zhengcefagui/202208/W020220808406785112297.pdf)**  
