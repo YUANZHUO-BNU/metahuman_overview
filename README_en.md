@@ -148,8 +148,8 @@ Digital humans have applications in self-media (knowledge science popularization
 [Domestic Commercial] A comprehensive creation platform integrating various AIGC capabilities.  
 ![Tencent Zhiying](assets/image-8.png)
 
-6. **[超能科智]**  
-[Domestic Commercial] AIGC Course Content Production Representative, Providing a One-Stop Platform for Content Production and Services
+6. [超能科智](https://mp.weixin.qq.com/s/etcD4SEMznBctOjuNJty2A)  
+[Domestic Commercial] AIGC Course Content Production Representative, Providing a One-Stop Platform for Content Production and Services  
 ![alt text](assets/image9.png)
 
 ## 5. Laws, Regulations, and Representative News

@@ -149,7 +149,7 @@ tbd
 【国产商用】融合多种AIGC能力的综合创作平台。
 ![alt text](assets/image-8.png)
 
-6. **超能科智**  
+6. [超能科智](https://mp.weixin.qq.com/s/etcD4SEMznBctOjuNJty2A)  
 【国产商用】AIGC课程内容生产代表，提供内容生产和服务一站式平台
 ![alt text](assets/image9.png)
 
