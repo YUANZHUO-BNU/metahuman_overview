@@ -137,7 +137,7 @@ Digital humans have applications in self-media (knowledge science popularization
 [Open Source] Fay is a complete open-source project, including Fay controller and digital human model, which can be flexibly combined for different application scenarios: virtual host, live sales, product guide, voice assistant, remote voice assistant, digital human interaction, digital human interviewer and psychological evaluation, Jarvis, Her.
 
 3. [HeyGen](https://www.heygen.com/)  
-[Overseas/Chinese-founded]  
+[Overseas/Chinese-founded]a popular platform that offers various related features, including digital avatars and voice cloning.  
 ![HeyGen](assets/image-7.png)
 
 4. [Tekan Technology](https://www.zhubobao.com/)  
@@ -148,9 +148,13 @@ Digital humans have applications in self-media (knowledge science popularization
 [Domestic Commercial] A comprehensive creation platform integrating various AIGC capabilities.  
 ![Tencent Zhiying](assets/image-8.png)
 
-6. [超能科智](https://mp.weixin.qq.com/s/etcD4SEMznBctOjuNJty2A)  
+6. [CZNK.AI](https://mp.weixin.qq.com/s/etcD4SEMznBctOjuNJty2A)  
 [Domestic Commercial] AIGC Course Content Production Representative, Providing a One-Stop Platform for Content Production and Services  
 ![alt text](assets/image9.png)
+
+7. [hifly](https://hifly.cc)  
+[Domestic Commercial] Offers various features, including digital avatars and voice cloning.  
+![alt text](assets/image10.png)
 
 ## 5. Laws, Regulations, and Representative News
 

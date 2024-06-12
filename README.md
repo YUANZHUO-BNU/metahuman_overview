@@ -138,7 +138,7 @@ tbd
 【开源】Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。
 
 3. [HeyGen](https://www.heygen.com/)  
-【海外/华人创办】
+【海外/华人创办】AI视频制作热门平台，提供数字分身、声音克隆等多种相关功能。  
 ![alt text](assets/image-7.png)
 
 4. [特看科技](https://www.zhubobao.com/)  
@@ -152,6 +152,10 @@ tbd
 6. [超能科智](https://mp.weixin.qq.com/s/etcD4SEMznBctOjuNJty2A)  
 【国产商用】AIGC课程内容生产代表，提供内容生产和服务一站式平台
 ![alt text](assets/image9.png)
+
+7. [飞影数字人](https://hifly.cc)  
+【国产商用】提供数字分身、声音克隆等多种功能  
+![alt text](assets/image10.png)
 
 ## 5. 法律法规、代表性新闻
 
