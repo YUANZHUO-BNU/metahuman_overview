@@ -1,6 +1,7 @@
 # 数字人主要技术整理
 
-目前数字人主要包括形象、声音和对话能力几方面。主要交互方式为直接与数字人进行对话。
+目前数字人主要包括形象、声音和对话能力几方面。主要交互方式为直接与数字人进行对话。以下从多方面进行了收集和总结，以期提供快速入门帮助。
+**中文** | [**English**](./README_en.md)  
 
 ## 0. 实时感知交互能力
 
@@ -26,7 +27,7 @@
 
 相应演示视频：
 
-https://player.bilibili.com/player.html?isOutside=true&aid=1454557368&bvid=BV1Vi421X7Xf&cid=1544530003&p=1
+<https://player.bilibili.com/player.html?isOutside=true&aid=1454557368&bvid=BV1Vi421X7Xf&cid=1544530003&p=1>
 
 ### 0.2 其他实现
 
@@ -42,12 +43,12 @@ tbd
 - 缺点：贵（可能）
 
 > 本图片中右侧为数字人，左侧为真人
-![数字人1](image.png)
-![数字人2](image-1.png)
+![数字人1](assets/image.png)
+![数字人2](assets/image-1.png)
 
 相应演示视频：
 
-https://player.bilibili.com/player.html?isOutside=true&aid=701718909&bvid=BV1vm4y1x7nm&cid=1217022011&p=1
+<https://player.bilibili.com/player.html?isOutside=true&aid=701718909&bvid=BV1vm4y1x7nm&cid=1217022011&p=1>
 
 ---
 
@@ -64,16 +65,16 @@ https://player.bilibili.com/player.html?isOutside=true&aid=701718909&bvid=BV1vm4
 **代表技术：**
 
 [Meta Human](https://www.unrealengine.com/en-US/metahuman)
-![alt text](image-5.png)
+![alt text](assets/image-5.png)
 
  [NVIDIA Omniverse Audio2Face](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)
-![alt text](image-4.png)
+![alt text](assets/image-4.png)
 
 [Live2D](https://www.live2d.com/en/)
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 [Adobe Character Animator](https://www.adobe.com/hk_en/products/character-animator.html)
-![alt text](image-3.png)
+![alt text](assets/image-3.png)
 
 ## 2. 声音模仿
 
@@ -91,27 +92,29 @@ https://player.bilibili.com/player.html?isOutside=true&aid=701718909&bvid=BV1vm4
 **1. GPT-SoVITS** *27.0K stars*  
 声音模型训练项目，少量文本即可实现微调模型，提供WebUI。
 
-**项目地址：** https://github.com/RVC-Boss/GPT-SoVITS  
+**项目地址：** <https://github.com/RVC-Boss/GPT-SoVITS>  
 
 **演示视频：**
 
-https://player.bilibili.com/player.html?isOutside=true&aid=836354039&bvid=BV12g4y1m7Uw&cid=1406840960&p=1
+<https://player.bilibili.com/player.html?isOutside=true&aid=836354039&bvid=BV12g4y1m7Uw&cid=1406840960&p=1>
+
 **2. so-vits-svc** *24.4K stars*  
 声音模型训练项目，代表：AI孙燕姿。
 
-**项目地址：** https://github.com/svc-develop-team/so-vits-svc  
+**项目地址：** <https://github.com/svc-develop-team/so-vits-svc>  
 
 **演示视频：**
 
-https://player.bilibili.com/player.html?isOutside=true&aid=572772327&bvid=BV1Mz4y1p7hY&cid=1178460068&p=1
+<https://player.bilibili.com/player.html?isOutside=true&aid=572772327&bvid=BV1Mz4y1p7hY&cid=1178460068&p=1>
+
 **3. ChatTTS** *23.3K stars*  
 非声音克隆。但是其文字转声音效果非常好，有停顿，有语气，有情绪。原生中文支持。网络提供了Windows、Linux等各种一键部署包、懒人包等。
 
-**项目地址：** https://github.com/2noise/ChatTTS  
+**项目地址：** <https://github.com/2noise/ChatTTS>  
 
 **演示视频：**
 
-https://player.bilibili.com/player.html?isOutside=true&aid=1055092304&bvid=BV1zn4y1o7iV&cid=1561584918&p=1
+<https://player.bilibili.com/player.html?isOutside=true&aid=1055092304&bvid=BV1zn4y1o7iV&cid=1561584918&p=1>
 
 **其他：**[剪映capcut声音克隆](https://www.capcut.cn/)、[睿声Reecho](https://www.reecho.ai/)、[Emotional VITS](https://github.com/innnky/emotional-vits)、[Bark](https://github.com/suno-ai/bark)
 
@@ -135,15 +138,15 @@ https://player.bilibili.com/player.html?isOutside=true&aid=1055092304&bvid=BV1zn
 
 3. [HeyGen](https://www.heygen.com/)  
 【海外/华人创办】
-![alt text](image-7.png)
+![alt text](assets/image-7.png)
 
 4. [特看科技](https://www.zhubobao.com/)  
 【国产商用】基于真人视频的高质量数字人
-![alt text](image-6.png)
+![alt text](assets/image-6.png)
 
 5. [腾讯智影](https://zenvideo.qq.com/)  
 【国产商用】融合多种AIGC能力的综合创作平台。
-![alt text](image-8.png)
+![alt text](assets/image-8.png)
 
 ## 5. 法律法规、代表性新闻
 
@@ -250,4 +253,3 @@ gpt-4o，gpt-4-vision-preview，gemini-pro-vision，智浦GLM-4V，零一科技y
 
 - OpenCompass  
 <https://github.com/open-compass/opencompass>
-
