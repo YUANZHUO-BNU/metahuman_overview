@@ -149,6 +149,10 @@ tbd
 【国产商用】融合多种AIGC能力的综合创作平台。
 ![alt text](assets/image-8.png)
 
+6. **超能科智**  
+【国产商用】AIGC课程内容生产代表，提供内容生产和服务一站式平台
+![alt text](assets/image9.png)
+
 ## 5. 法律法规、代表性新闻
 
 - **[《互联网信息服务深度合成管理规定》](https://www.gov.cn/zhengce/zhengceku/2022-12/12/content_5731431.htm)**  
