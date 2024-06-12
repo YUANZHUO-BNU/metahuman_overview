@@ -1,8 +1,8 @@
 # Summary of Major Technologies in Digital Humans
 
-Currently, digital humans mainly encompass aspects of appearance, voice, and conversational abilities. The primary mode of interaction is through direct conversation with the digital human. The following has been collected and summarized from various sources in order to provide quick-start assistance.
-
 [**中文**](./README.md) | **English**  
+
+Currently, digital humans mainly encompass aspects of appearance, voice, and conversational abilities. The primary mode of interaction is through direct conversation with the digital human. The following has been collected and summarized from various sources in order to provide quick-start assistance.
 
 ## 0. Real-Time Perceptual Interaction Abilities
 
