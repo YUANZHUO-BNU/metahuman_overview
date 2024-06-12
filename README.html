@@ -1,0 +1,234 @@
+<!DOCTYPE html><html><head>
+      <title>README</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:///c:\Users\niji\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.8.13\crossnote\dependencies\katex\katex.min.css">
+      
+      
+      
+      
+      
+      <style>
+      code[class*=language-],pre[class*=language-]{color:#333;background:0 0;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*=language-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,.66);border:4px solid rgba(150,150,150,.66);background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+
+      </style>
+      <!-- The content below will be included at the end of the <head> element. --><script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script></head><body for="html-export">
+    
+    
+      <div class="crossnote markdown-preview  ">
+      
+<h1 id="数字人主要技术整理">数字人主要技术整理 </h1>
+<p>目前数字人主要包括形象、声音和对话能力几方面。主要交互方式为直接与数字人进行对话。</p>
+<h2 id="0-实时对话能力">0. 实时对话能力 </h2>
+<p>随着GPT-4o的一系列演示视频的发布，几乎解决了实时性的问题，通过实时对话、打断、主动提问，以及实时分析摄像头内容，让数字人一下子达到了更高级别的可用性。
+据说有些项目破防了：</p>
+<p>相应演示视频：</p>
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&amp;aid=1454557368&amp;bvid=BV1Vi421X7Xf&amp;cid=1544530003&amp;p=1" width="100%" height="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<h2 id="1-形象">1. 形象 </h2>
+<h3 id="11-真人直接录制">1.1 真人直接录制 </h3>
+<p>真人出镜录制素材视频，后期通过对AI驱动口型的方式实现数字人</p>
+<h3 id="真">真 </h3>
+<h3 id="建模">建模 </h3>
+<p>对话可以通过实时的方式，也可以通过先合成再播放的的方式。前者在高性能电脑中可实现非常低的延时，可用在直播中。后者有一定延时。</p>
+<ul>
+<li>实时或非实时模型（代表技术：<a href="https://www.unrealengine.com/en-US/metahuman">Meta Human</a>, <a href="https://www.nvidia.com/en-us/omniverse/apps/audio2face/">NVIDIA Omniverse Audio2Face</a>）</li>
+<li>实时视频换脸（代表技术：<a href="https://www.deepfakevfx.com/downloads/deepfacelive/">DeepFakeLive</a>,<a href="https://github.com/facefusion/facefusion">FaceFusion</a>）</li>
+<li>非实时视频换声音（代表技术：<a href="https://github.com/Rudrabha/Wav2Lip">Wav2Lip</a>）</li>
+<li>非实时图片转视频（代表技术：<a href="https://github.com/OpenTalker/SadTalker">Sadtalker</a>）</li>
+</ul>
+<h2 id="2-声音模仿">2. 声音模仿 </h2>
+<p>数字人声音可使用现有模型的TTS，或使用自训练的声音模型。声学模型是声音合成系统的重要组成部分。
+<img src="https://i0.hdslb.com/bfs/article/439a654b5efa2b623d5e6cbd68ac525665ad737b.png@1256w_240h_!web-article-pic.avif" alt="声学模型"></p>
+<p>主流声学模型包括<a href="https://github.com/jaywalnut310/vits">VITS</a>、<a href="https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/Tacotron2">Tacotron</a>、<a href="https://github.com/ming024/FastSpeech2">FastSpeech2</a>等。VITS（Variational Inference with adversarial learning for end-to-end Text-to-Speech）是一种语音合成方法，它使用预先训练好的语音编码器 (vocoder声码器) 将文本转化为语音。
+<img src="https://i0.hdslb.com/bfs/article/6fb3acf043b2842d861066653a85fff84be95af7.png@1256w_726h_!web-article-pic.avif" alt="vits process"></p>
+<p>之前流行的AI孙燕姿等，采用技术为<a href="https://github.com/svc-develop-team/so-vits-svc/tree/4.1-Stable">so-vits-svc</a>，全称SoftVC VITS Singing Voice Conversion。该技术是一个声音爱好者基于<a href="https://github.com/bshall/soft-vc">softVC</a>和<a href="https://github.com/jaywalnut310/vits">VITS</a>修改而来。</p>
+<p>声音模仿流行趋势TOP 10（截止2024.6）：</p>
+<ol>
+<li>ChatTTS
+项目地址：
+演示视频：
+最近最火的就是它，技术的一小步，电诈的一大步</li>
+</ol>
+<p>2</p>
+<ul>
+<li><strong>声音转声音</strong>（代表技术：<a href="https://github.com/svc-develop-team/so-vits-svc/tree/4.1-Stable">so-vits-svc</a>，<a href="https://github.com/innnky/emotional-vits">Emotional VITS</a>）</li>
+<li><strong>文字转声音</strong>（代表技术：<a href="https://modelscope.cn/my/overview">阿里ModelScope</a>，<a href="https://github.com/suno-ai/bark">Bark</a>）</li>
+</ul>
+<h2 id="互动">互动 </h2>
+<h2 id="3-large-langurage-modelllm大语言模型">3. Large Langurage Model（LLM/大语言模型） </h2>
+<h4 id="chatgpt">ChatGPT </h4>
+<p>官网：<a href="https://chat.openai.com/chat">https://chat.openai.com/chat</a><br>
+openai后台：<a href="https://platform.openai.com/">https://platform.openai.com/</a><br>
+新建API KEY：<a href="https://platform.openai.com/account/api-keys">https://platform.openai.com/account/api-keys</a><br>
+查看账号额度：<a href="https://platform.openai.com/account/usage">https://platform.openai.com/account/usage</a><br>
+官方API文档：<a href="https://platform.openai.com/docs/api-reference">https://platform.openai.com/docs/api-reference</a></p>
+<h4 id="claude">Claude </h4>
+<p>实现参考：<a href="https://github.com/yokonsan/claude-in-slack-api">claude-in-slack-api</a><br>
+API申请方法：<a href="https://github.com/bincooo/claude-api">claude-api</a><br>
+slack官网：<a href="https://slack.com/intl/zh-cn/">https://slack.com/intl/zh-cn/</a><br>
+添加claude到slack：<a href="https://www.anthropic.com/claude-in-slack">https://www.anthropic.com/claude-in-slack</a></p>
+<p>视频教程：<br>
+<a href="https://www.bilibili.com/video/BV1PP41127mQ">完美替代chatGPT！保姆级Claude注册教程及使用上的优点和缺点</a><br>
+<a href="https://www.bilibili.com/video/BV17k4y1H7aa">解决现阶段slack新建工作区Claude不回复</a></p>
+<h4 id="claude2">Claude2 </h4>
+<p><a href="https://github.com/wwwzhouhui/Claude2-PyAPI">Claude2-PyAPI</a><br>
+claude2官网：<a href="https://claude.ai/">https://claude.ai/</a><br>
+cookie获取方式：F12抓包XHR，然后请求头获取cookie</p>
+<h4 id="chatglm">ChatGLM </h4>
+<p>官方仓库：<a href="https://github.com/THUDM/ChatGLM-6B">ChatGLM-6B</a><br>
+整合包：<a href="https://www.bilibili.com/video/BV1E24y1u7Go">【ChatGLM】本地版ChatGPT？6G显存可用！ChatGLM-6B 清华开源模型一键包发布 可更新</a></p>
+<h4 id="智谱ai">智谱AI </h4>
+<p>官方：<a href="https://open.bigmodel.cn/">https://open.bigmodel.cn/</a><br>
+api key申请地址：<a href="https://open.bigmodel.cn/usercenter/apikeys">https://open.bigmodel.cn/usercenter/apikeys</a><br>
+注意，需要在"设置"-&gt;"账号设置"中完成实名认证后，才能使用API。新账号默认赠送了18元的免费额度。</p>
+<h4 id="langchain-chatglm">langchain-ChatGLM </h4>
+<p>官方仓库：<a href="https://github.com/chatchat-space/langchain-ChatGLM">langchain-ChatGLM</a><br>
+个人提供的整合包：<a href="https://pan.quark.cn/s/8d8904fd4b30">https://pan.quark.cn/s/8d8904fd4b30</a><br>
+chatglm-6b-int4模型下载(其实这个官方就行，有会员的话网盘快点)：<a href="https://pan.quark.cn/s/a483e0c3e5fa">https://pan.quark.cn/s/a483e0c3e5fa</a><br>
+官方模型仓库：<a href="https://huggingface.co/THUDM">https://huggingface.co/THUDM</a></p>
+<h2 id="4-应用场景及代表项目">4. 应用场景及代表项目 </h2>
+<p>数字人在自媒体（知识科普等相关口播博主）、电商直播带货、教育教学领域有所应用。以及数字生命（已故亲人）等领域，和VR等结合。数字人技术和实体机器人的融合等</p>
+<ul>
+<li>
+<p><a href="https://github.com/Ikaros-521/AI-Vtuber">AI-Vtuber</a><br>
+【开源】AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain（本地/llm）/chatglm/text-generation-webui/闻达】 驱动的虚拟主播</p>
+</li>
+<li>
+<p><a href="https://github.com/TheRamU/Fay">Fay</a>
+【开源】Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。</p>
+</li>
+<li>
+<p><a href="https://zenvideo.qq.com/">腾讯智影</a>
+【国产商用】融合多种AIGC能力的综合创作平台。</p>
+</li>
+<li>
+<p><a href="https://motionface.cn/">Motionface</a>
+【国产商用】集成虚拟主播、嘴型同步、卡通风等的综合创作平台。</p>
+</li>
+</ul>
+<h2 id="法律法规-代表性新闻">法律法规、代表性新闻 </h2>
+<p>《互联网信息服务深度合成管理规定》
+深度合成服务提供者和技术支持者提供智能对话、合成人声、人脸生成、沉浸式拟真场景等生成或者显著改变信息内容功能的服务的，应当进行显著标识，避免公众混淆或者误认</p>
+<ul>
+<li>
+<p>[国家政策，鼓励数字人2024.6.12]</p>
+</li>
+<li>
+<p>[刘强东数字人带货]</p>
+</li>
+<li>
+<p><a href="https://learning.sohu.com/a/713671752_120619005">大模型、数字人技术在教育领域中如何得以应用？</a><br>
+“用科技促进教育发展，让更多人受益，是我们的初心。构建更有效果、更有效率、更有体验感的教育，让全球的学习者都能享有优质数字教育资源。”
+8月20日，在2023全球智慧教育大会现场，北京师范大学智慧学习研究院副院长、网龙副总裁陈长杰在接受媒体采访时做了上述表示。</p>
+</li>
+</ul>
+<h2 id="项目实际体验使用说明文档aigc夏令营gcd4fe-48h">项目实际体验使用说明文档（AIGC夏令营&amp;GCD4FE 48H） </h2>
+<p><a href="https://yuanzhuo.bnu.edu.cn/downloads/gcd4fe_ai_story.html">https://yuanzhuo.bnu.edu.cn/downloads/gcd4fe_ai_story.html</a></p>
+
+      </div>
+      <div class="md-sidebar-toc">
+<div class="md-toc">
+<details style="padding:0;;padding-left:0px;" open="">
+        <summary class="md-toc-link-wrapper">
+          <a href="#数字人主要技术整理" class="md-toc-link"><p>数字人主要技术整理</p>
+</a>
+          </summary>
+        <div>
+          <div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#0-实时对话能力" class="md-toc-link">
+            <ol start="0">
+<li>实时对话能力</li>
+</ol>
+
+          </a></div><details style="padding:0;;padding-left:24px;" open="">
+        <summary class="md-toc-link-wrapper">
+          <a href="#1-形象" class="md-toc-link"><ol>
+<li>形象</li>
+</ol>
+</a>
+          </summary>
+        <div>
+          <div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#11-真人直接录制" class="md-toc-link">
+            <p>1.1 真人直接录制</p>
+
+          </a></div><div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#真" class="md-toc-link">
+            <p>真</p>
+
+          </a></div><div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#建模" class="md-toc-link">
+            <p>建模</p>
+
+          </a></div>
+        </div>
+      </details>
+    <div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#2-声音模仿" class="md-toc-link">
+            <ol start="2">
+<li>声音模仿</li>
+</ol>
+
+          </a></div><div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#互动" class="md-toc-link">
+            <p>互动</p>
+
+          </a></div><div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#3-large-langurage-modelllm大语言模型" class="md-toc-link">
+            <ol start="3">
+<li>Large Langurage Model（LLM/大语言模型）</li>
+</ol>
+
+          </a></div><div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#4-应用场景及代表项目" class="md-toc-link">
+            <ol start="4">
+<li>应用场景及代表项目</li>
+</ol>
+
+          </a></div><div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#法律法规-代表性新闻" class="md-toc-link">
+            <p>法律法规、代表性新闻</p>
+
+          </a></div><div class="md-toc-link-wrapper" style="padding:0;;display:list-item;list-style:square;margin-left:42px">
+          <a href="#项目实际体验使用说明文档aigc夏令营gcd4fe-48h" class="md-toc-link">
+            <p>项目实际体验使用说明文档（AIGC夏令营&amp;GCD4FE 48H）</p>
+
+          </a></div>
+        </div>
+      </details>
+    
+</div>
+</div>
+      <a id="sidebar-toc-btn">≡</a>
+    
+    
+    
+    
+    
+    
+<script>
+
+var sidebarTOCBtn = document.getElementById('sidebar-toc-btn')
+sidebarTOCBtn.addEventListener('click', function(event) {
+  event.stopPropagation()
+  if (document.body.hasAttribute('html-show-sidebar-toc')) {
+    document.body.removeAttribute('html-show-sidebar-toc')
+  } else {
+    document.body.setAttribute('html-show-sidebar-toc', true)
+  }
+})
+</script>
+      
+  
+    </body></html>
