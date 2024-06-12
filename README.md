@@ -252,4 +252,8 @@ gpt-4o，gpt-4-vision-preview，gemini-pro-vision，智浦GLM-4V，零一科技y
 ### 大模型自动化测评工具
 
 - OpenCompass  
+<<<<<<< HEAD
 <https://github.com/open-compass/opencompass>
+=======
+<https://github.com/open-compass/opencompass>
+>>>>>>> 144b01375204d909bf58e2f4ba7342f93ead342b
