@@ -65,16 +65,16 @@ Modeling offers higher flexibility, with various methods ranging from high-preci
 
 **Representative Technologies:**
 
-[Meta Human](https://www.unrealengine.com/en-US/metahuman)
+[Meta Human](https://www.unrealengine.com/en-US/metahuman)  
 ![Meta Human](assets/image-5.png)
 
-[NVIDIA Omniverse Audio2Face](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)
+[NVIDIA Omniverse Audio2Face](https://www.nvidia.com/en-us/omniverse/apps/audio2face/)  
 ![Audio2Face](assets/image-4.png)
 
-[Live2D](https://www.live2d.com/en/)
+[Live2D](https://www.live2d.com/en/)  
 ![Live2D](assets/image-2.png)
 
-[Adobe Character Animator](https://www.adobe.com/hk_en/products/character-animator.html)
+[Adobe Character Animator](https://www.adobe.com/hk_en/products/character-animator.html)  
 ![Adobe Character Animator](assets/image-3.png)
 
 ## 2. Voice Imitation
@@ -131,22 +131,21 @@ Digital humans have applications in self-media (knowledge science popularization
 **Representative Projects:**
 
 1. [AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber)  
-
 [Open Source] AI Vtuber is a virtual AI host driven by large models, integrating appearance and voice.
 
 2. [Fay](https://github.com/TheRamU/Fay)  
 [Open Source] Fay is a complete open-source project, including Fay controller and digital human model, which can be flexibly combined for different application scenarios: virtual host, live sales, product guide, voice assistant, remote voice assistant, digital human interaction, digital human interviewer and psychological evaluation, Jarvis, Her.
 
 3. [HeyGen](https://www.heygen.com/)  
-[Overseas/Chinese-founded]
+[Overseas/Chinese-founded]  
 ![HeyGen](assets/image-7.png)
 
 4. [Tekan Technology](https://www.zhubobao.com/)  
-[Domestic Commercial] High-quality digital human based on real-person video
+[Domestic Commercial] High-quality digital human based on real-person video  
 ![Tekan Technology](assets/image-6.png)
 
 5. [Tencent Zhiying](https://zenvideo.qq.com/)  
-[Domestic Commercial] A comprehensive creation platform integrating various AIGC capabilities.
+[Domestic Commercial] A comprehensive creation platform integrating various AIGC capabilities.  
 ![Tencent Zhiying](assets/image-8.png)
 
 ## 5. Laws, Regulations, and Representative News
