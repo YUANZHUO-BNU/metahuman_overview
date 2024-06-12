@@ -26,7 +26,7 @@
 
 相应演示视频：
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1454557368&bvid=BV1Vi421X7Xf&cid=1544530003&p=1" width="100%" height="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://player.bilibili.com/player.html?isOutside=true&aid=1454557368&bvid=BV1Vi421X7Xf&cid=1544530003&p=1
 
 ### 0.2 其他实现
 
@@ -47,7 +47,7 @@ tbd
 
 相应演示视频：
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=701718909&bvid=BV1vm4y1x7nm&cid=1217022011&p=1" width="100%" height="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://player.bilibili.com/player.html?isOutside=true&aid=701718909&bvid=BV1vm4y1x7nm&cid=1217022011&p=1
 
 ---
 
@@ -55,7 +55,6 @@ tbd
 
 - 唇形同步Lip Sync技术（代表：[Wav2Lip](https://github.com/Rudrabha/Wav2Lip)、[HeyGen](https://www.heygen.com/)、[rask.ai](https://rask.ai/)）
 - 实时视频换脸（代表：[DeepFakeLive](https://www.deepfakevfx.com/downloads/deepfacelive/)、[FaceFusion](https://github.com/facefusion/facefusion)、[fal.ai](https://fal.ai/models/fal-ai/fast-turbo-diffusion/playground)）
-
 - 图片转视频（代表：[MuseTalk](https://github.com/TMElyralab/MuseTalk)、[Sadtalker](https://github.com/OpenTalker/SadTalker)）
 
 ### 1.2 建模+算法驱动
@@ -96,8 +95,7 @@ tbd
 
 **演示视频：**
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=836354039&bvid=BV12g4y1m7Uw&cid=1406840960&p=1" width="100%" height="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+https://player.bilibili.com/player.html?isOutside=true&aid=836354039&bvid=BV12g4y1m7Uw&cid=1406840960&p=1
 **2. so-vits-svc** *24.4K stars*  
 声音模型训练项目，代表：AI孙燕姿。
 
@@ -105,8 +103,7 @@ tbd
 
 **演示视频：**
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=572772327&bvid=BV1Mz4y1p7hY&cid=1178460068&p=1" width="100%" height="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+https://player.bilibili.com/player.html?isOutside=true&aid=572772327&bvid=BV1Mz4y1p7hY&cid=1178460068&p=1
 **3. ChatTTS** *23.3K stars*  
 非声音克隆。但是其文字转声音效果非常好，有停顿，有语气，有情绪。原生中文支持。网络提供了Windows、Linux等各种一键部署包、懒人包等。
 
@@ -114,7 +111,7 @@ tbd
 
 **演示视频：**
 
-<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=1055092304&bvid=BV1zn4y1o7iV&cid=1561584918&p=1" width="100%" height="600" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+https://player.bilibili.com/player.html?isOutside=true&aid=1055092304&bvid=BV1zn4y1o7iV&cid=1561584918&p=1
 
 **其他：**[剪映capcut声音克隆](https://www.capcut.cn/)、[睿声Reecho](https://www.reecho.ai/)、[Emotional VITS](https://github.com/innnky/emotional-vits)、[Bark](https://github.com/suno-ai/bark)
 
@@ -252,8 +249,5 @@ gpt-4o，gpt-4-vision-preview，gemini-pro-vision，智浦GLM-4V，零一科技y
 ### 大模型自动化测评工具
 
 - OpenCompass  
-<<<<<<< HEAD
 <https://github.com/open-compass/opencompass>
-=======
-<https://github.com/open-compass/opencompass>
->>>>>>> 144b01375204d909bf58e2f4ba7342f93ead342b
+
