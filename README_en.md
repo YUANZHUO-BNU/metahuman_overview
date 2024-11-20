@@ -4,6 +4,50 @@
 
 Currently, digital humans mainly encompass aspects of appearance, voice, and conversational abilities. The primary mode of interaction is through direct conversation with the digital human. The following has been collected and summarized from various sources in order to provide quick-start assistance.
 
+---
+
+***Update the digital human icon for a visual presentation of the various technologies and representative solutions involved in the input and output process.***
+
+![Untitled File](https://github.com/user-attachments/assets/2b60395f-dcfb-4703-bdbb-bd98586a5e80)
+
+The public sharing link is as follows. Feel free to modify and improve: https://www.processon.com/embed/60051bca7d9c084cf9ec5dad?cid=60051bca7d9c084cf9ec5dae
+
+---
+
+## Demo Project
+### Digital Human Academic Presentation
+
+Generate high-quality academic and product report videos using minimal raw materials. Required materials: (1) A photo of a real person, (2) A 10-second audio clip of the person in any language, and (3) The original PPT to generate a digital human academic report.
+
+https://github.com/user-attachments/assets/ad846bff-18ac-4bc0-b964-b6c668db6968  
+https://github.com/user-attachments/assets/1aadcc4f-46b4-4097-aeb0-03307b83da6f  
+
+#### 1. Text Preparation:
+Use GPT-4o or other visual AI models to customize prompts (e.g., "Help me generate a verbatim speech script as xx, with a relaxed tone. I will upload it page by page, please ensure coherence between pages, etc."). Upload the PPT page by page to get the speech script. (Continuous optimization is required for the best results)
+
+#### 2. Voice Cloning:
+Clone the voice using a voice engine. Open-source solution: CosyVoice (80/100), Closed-source solution: HeyGen (current choice, 90/100).
+
+#### 3. Photo-Driven Digital Human Raw Video
+##### 3.1 Use Alibaba Cloud PAI ArtLab to generate cartoon-like digital human images.
+Project introduction: https://mp.weixin.qq.com/s/DaP9rvW6A9jx1GoLyU0zHQ  
+Direct link: https://x.sm.cn/GEGDfU9  
+The advantage of this method is that it generates a digital human that, while remaining realistic, carries a cartoonish aspect, significantly reducing the uncanny valley effect (feedback from all viewers).
+![Demo 2](https://github.com/user-attachments/assets/d05a75a0-41cc-4de6-b57c-a63022367260)
+
+##### 3.2 Photo-Driven
+Open-source solution: 50-70/100, Closed-source solution: HeyGen (current choice, 90/100).
+
+#### 4. Post-Production Composition
+After keying out the digital human, combine it with each page of the PPT.  
+Optimization: If imperfections are noticed during keying, try filling in the PNG photo materials with a white background using software like Photoshop.
+
+#### 5. Multi-language Support
+Use translation software like FanyiGou (fanyigou.com) to translate the PPT into multiple languages. Tested results show good quality. Translate the verbatim script into the corresponding language, clone the voice to match the language, and synthesize accordingly.
+
+---
+
+
 ## 0. Real-Time Perceptual Interaction Abilities
 
 ### 0.1 GPT-4o
