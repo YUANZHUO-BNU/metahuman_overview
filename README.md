@@ -20,9 +20,10 @@
 
 通过非常少的原始素材，生成高质量的学术汇报、产品汇报数字人视频。需要素材：（1）一张真人照片、（2）一段此人的10秒钟任意语种的音频，及（3）原始PPT，生成一段数字人学术汇报。
 
-https://github.com/user-attachments/assets/e9618daf-2da5-4654-8116-724707301bd8
 
-https://github.com/user-attachments/assets/b5493b05-462d-4d7e-9a9b-52b3efdf78a9
+https://github.com/user-attachments/assets/ad846bff-18ac-4bc0-b964-b6c668db6968
+
+https://github.com/user-attachments/assets/1aadcc4f-46b4-4097-aeb0-03307b83da6f
 
 
 1. 文本准备：
