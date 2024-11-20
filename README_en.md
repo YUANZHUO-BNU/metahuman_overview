@@ -19,8 +19,11 @@ The public sharing link is as follows. Feel free to modify and improve: https://
 
 Generate high-quality academic and product report videos using minimal raw materials. Required materials: (1) A photo of a real person, (2) A 10-second audio clip of the person in any language, and (3) The original PPT to generate a digital human academic report.
 
+
 https://github.com/user-attachments/assets/ad846bff-18ac-4bc0-b964-b6c668db6968  
+
 https://github.com/user-attachments/assets/1aadcc4f-46b4-4097-aeb0-03307b83da6f  
+
 
 #### 1. Text Preparation:
 Use GPT-4o or other visual AI models to customize prompts (e.g., "Help me generate a verbatim speech script as xx, with a relaxed tone. I will upload it page by page, please ensure coherence between pages, etc."). Upload the PPT page by page to get the speech script. (Continuous optimization is required for the best results)
