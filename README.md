@@ -313,3 +313,7 @@ gpt-4o，gpt-4-vision-preview，gemini-pro-vision，智浦GLM-4V，零一科技y
 
 - OpenCompass  
 <https://github.com/open-compass/opencompass>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YUANZHUO-BNU/metahuman_overview&type=Date)](https://star-history.com/#YUANZHUO-BNU/metahuman_overview&Date)
